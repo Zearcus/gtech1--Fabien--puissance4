@@ -3,7 +3,7 @@
 #include <time.h>
 
 int tab[6][7];
-int player;
+
 
 int main(void){
 
