@@ -8,12 +8,7 @@ int player;
 int main(void){
 
   printf(tab);
-  // if(cond){
-  // ;
-  // }
-  // else{
-  // ;
-  //}
+  
   
 
   
